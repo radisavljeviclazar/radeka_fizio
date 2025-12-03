@@ -44,9 +44,9 @@
 		$date = $_POST["date"];
 	}
 
-	$subject ='Book Appointment from site';
+	$subject ='Massaga';
 
-	$EmailTo = "info@yourdomain.com"; // Replace with your email.
+	$EmailTo = "l.radisavljevic01@gmail.com"; // Replace with your email.
 
 	// prepare email body text
 	$Body = "";

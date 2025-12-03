@@ -1,5 +1,6 @@
 <?php
-
+	
+	
 	$errorMSG = "";
 
 	// FIRSTNAME
@@ -37,10 +38,10 @@
 		$message = $_POST["message"];
 	}
 
-	$subject = 'Contact Inquiry from Website';
+	$subject = 'Kontakt forma sa sajta';
 
 	//$EmailTo = "info@yourdomain.com"; // Replace with your email.
-    $EmailTo = "awaikentechnology@gmail.com";
+    $EmailTo = "l.radisavljevic01@gmail.com";
     
 	// prepare email body text
 	$Body = "";
