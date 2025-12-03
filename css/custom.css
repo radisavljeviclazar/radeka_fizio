@@ -49,12 +49,12 @@
 /************************************/
 
 :root{
-	--primary-color				: #5A5044;
+	--primary-color				: #1b766a;
 	--secondary-color			: #F7F3ED;
-	--accent-secondary-color	: #636A55; /*ovde menjam boju za footer ako*/
+	--accent-secondary-color	: #176359; /*ovde menjam boju za footer ako*/
 	--bg-color					: #EFE7DA;
 	--text-color				: #868686;
-	--accent-color				: #8E714F;
+	--accent-color				: #155950;
 	--white-color				: #FFFFFF;
 	--divider-color				: #5A50441A;
 	--dark-divider-color		: #F7F3ED1A;
